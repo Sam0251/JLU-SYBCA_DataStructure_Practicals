@@ -1,3 +1,4 @@
+//Write a program to declare and print elements of a 1D array of 5 integers
 #include <iostream>
 using namespace std;
 
@@ -15,4 +16,5 @@ int main() {
 
     return 0;
 }
+
 
