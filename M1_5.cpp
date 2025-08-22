@@ -1,3 +1,4 @@
+//Write a program to reverse the elements of a 1D array.
 #include <iostream>
 using namespace std;
 
@@ -23,6 +24,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
