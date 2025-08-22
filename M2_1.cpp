@@ -1,3 +1,4 @@
+//Write a program to implement a stack using arrays (push and pop).
 #include <iostream>
 using namespace std;
 #define SIZE 5
@@ -71,4 +72,5 @@ int main() {
 
     return 0;
 }
+
 
