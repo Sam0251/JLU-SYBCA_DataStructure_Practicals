@@ -1,3 +1,4 @@
+//Write a program to check if a stack is empty or full.
 #include <iostream>
 using namespace std;
 
@@ -77,5 +78,6 @@ int main() {
 
     return 0;
 }
+
 
 
