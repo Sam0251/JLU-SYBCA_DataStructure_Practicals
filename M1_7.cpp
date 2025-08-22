@@ -1,3 +1,4 @@
+//Write a program to perform element-wise addition of two 1D arrays.
 #include <iostream>
 using namespace std;
 
@@ -23,5 +24,6 @@ int main() {
     }
      return 0;
 }
+
 
 
