@@ -1,3 +1,4 @@
+//Write a program to input a 2D array (3x3) and display it in matrix form.
 #include <iostream>
 using namespace std;
 
@@ -22,5 +23,6 @@ int main() {
 
     return 0;
 }
+
 
 
