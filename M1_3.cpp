@@ -1,3 +1,4 @@
+//Write a program to find the sum of all elements in a 1D array
 #include <iostream>
 using namespace std;
 
@@ -14,4 +15,5 @@ int main() {
 
     return 0;
 }
+
 
