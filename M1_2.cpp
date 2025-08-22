@@ -1,3 +1,4 @@
+//Write a program to input 10 numbers in an array and display them.
 #include <iostream>
 using namespace std;
 
@@ -16,5 +17,6 @@ int main() {
 
     return 0;
 }
+
 
 
